@@ -1,0 +1,21 @@
+{
+  "name": "shot-gallery-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "pro": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2",
+    "gsap": "^3.9.1",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "smooth-scrollbar": "^8.7.4"
+  }
+}
